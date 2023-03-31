@@ -1,6 +1,6 @@
 Name:		texlive-exercises
 Version:	55188
-Release:	1
+Release:	2
 Summary:	Typeset exercises and solutions with automatic addition of points
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exercises
