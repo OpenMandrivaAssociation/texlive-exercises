@@ -3,7 +3,7 @@ Version:	55188
 Release:	2
 Summary:	Typeset exercises and solutions with automatic addition of points
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exercises
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/exercises
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/exercises.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/exercises.doc.r%{version}.tar.xz
